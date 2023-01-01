@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+- conneroisu
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - conneroisu/Text-Dataset-Aid-Plugin 
+  - conneroisu/Obsidian-Canvas-Utilities-Sample-Plugin
+  - conneroisu/Canvas-Temple-Obsidian-Plugin
+  - conneroisu/awesome-vaults

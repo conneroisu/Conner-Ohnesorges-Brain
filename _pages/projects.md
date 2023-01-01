@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 created: 2022-12-31T20:54:53-06:00
-updated: 2022-12-31T20:54:53-06:00
+updated: 2022-12-31T22:01:21-06:00
 ---
 
 <!-- pages/projects.md -->

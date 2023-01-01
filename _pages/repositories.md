@@ -6,7 +6,7 @@ description: Edit the `_data/repositories.yml` and change the `github_users` and
 nav: true
 nav_order: 3
 created: 2022-12-31T20:54:53-06:00
-updated: 2022-12-31T20:54:53-06:00
+updated: 2022-12-31T22:03:39-06:00
 ---
 
 ## GitHub users
