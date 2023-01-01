@@ -5,6 +5,8 @@ description: a project with no image
 img:
 importance: 4
 category: fun
+created: 2022-12-31T20:55:12-06:00
+updated: 2022-12-31T21:01:51-06:00
 ---
 
 Every project has a beautiful feature showcase page.
@@ -45,7 +47,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... eveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">

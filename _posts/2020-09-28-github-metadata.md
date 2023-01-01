@@ -4,6 +4,8 @@ title:  a post with github metadata
 date: 2020-09-28 21:01:00
 description: a quick run down on accessing github metadata.
 categories: sample-posts external-services
+created: 2022-12-31T20:55:30-06:00
+updated: 2022-12-31T20:55:30-06:00
 ---
 
 A sample blog page that demonstrates the accessing of github meta data.

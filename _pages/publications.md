@@ -6,6 +6,8 @@ description: publications by categories in reversed chronological order. generat
 years: [1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
+created: 2022-12-31T20:54:53-06:00
+updated: 2022-12-31T20:54:53-06:00
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
