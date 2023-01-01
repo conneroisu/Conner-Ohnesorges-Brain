@@ -2,6 +2,11 @@
 created: 2022-12-31T20:54:53-06:00
 updated: 2022-12-31T20:54:53-06:00
 ---
+
+[![Deploy Jekyll site to Pages](https://github.com/conneroisu/Conner-Ohnesorges-Brain/actions/workflows/jekyll.yml/badge.svg)](https://github.com/conneroisu/Conner-Ohnesorges-Brain/actions/workflows/jekyll.yml)
+
+
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
