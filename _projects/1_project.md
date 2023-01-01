@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: OhneDriver Bus System
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,11 +8,69 @@ category: work
 created: 2022-12-31T20:55:12-06:00
 updated: 2022-12-31T20:55:12-06:00
 ---
+# OhneDriver Bus Automation movement 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Introduction
 
+This project is an attempt to automate the bus movement in the campus. The buses are currently monitored by the driver and the driver is responsible for the movement of the bus. The driver is responsible for the movement of the bus and also for the safety of the passengers. We are trying to automate the bus movement by using the sensors and the camera installed in the bus. The sensors are used to monitor the movement of the bus and the camera is used to monitor the passengers. The driver will be responsible for the safety of the passengers and the bus movement will be monitored by the system.
+
+## Objectives
+
+The objectives of the project are as follows:
+
+* To automate the bus movement in the campus
+* To monitor the movement of the bus using the sensors
+* To monitor the passengers using the camera
+* To monitor the speed of the bus using the GPS
+
+## Scope
+
+The scope of the project is limited to the movement of the bus in the campus. The system will be able to monitor the movement of the bus and the passengers. The system will not be able to monitor the movement of the bus outside the campus.
+
+## System Architecture
+
+The system architecture of the project is shown below:
+
+![System Architecture](/assets/img/system_architecture.png)
+
+## Technologies Used
+
+The technologies used in the project are as follows:
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* OpenCV
+* Arduino
+* Raspberry Pi
+* GPS
+
+## Hardware
+
+The hardware used in the project are as follows:
+
+* Raspberry Pi
+* Arduino
+* GPS
+* Camera
+* Sensors
+
+## Software
+
+The software used in the project are as follows:
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* OpenCV
+
+## Team Members
+
+The team members are as follows:
+
+* [Karthik](
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
