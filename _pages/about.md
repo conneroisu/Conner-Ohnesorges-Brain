@@ -16,10 +16,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 created: 2022-12-31T20:54:53-06:00
-updated: 2023-01-05T14:41:35-06:00
+updated: 2023-01-05T15:14:56-06:00
 ---
 Go Cyclones!
 
 Welcome to my about page.
+  to get updates.
 
-Check out a few of my projects, I am still building out the website so some of it is unfinished but do check later or sign up for my newletter on substack
+I am passionate about making AI more accessible to everyone through my research projects as well as through my Check out a few of my projects, I am still building out the website so some of it is unfinished but do check later or sign up for my newletter!
