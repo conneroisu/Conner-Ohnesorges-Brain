@@ -1,18 +1,85 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: OhneDriver Bus System
+description: a project with a background image
+img: assets/img/12.jpg
+importance: 1
+category: work
 created: 2022-12-31T20:55:12-06:00
-updated: 2022-12-31T21:01:51-06:00
+updated: 2023-01-10T03:38:43-06:00
 ---
+# OhneDriver Bus Automation
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Introduction
 
+This project is an attempt to automate the bus movement in the campus. The buses are currently monitored by the driver and the driver is responsible for the movement of the bus. The driver is responsible for the movement of the bus and also for the safety of the passengers. We are trying to automate the bus movement by using the sensors and the camera installed in the bus. The sensors are used to monitor the movement of the bus and the camera is used to monitor the passengers. The driver will be responsible for the safety of the passengers and the bus movement will be monitored by the system.
+
+To show the feasibility and to point to the wasting of data for CyRide as a company, I have created a Mini-Autonomous Bus which is described within this project page. 
+
+## Objectives
+
+The objectives of the project are as follows:
+
+* To automate the bus movement in the campus
+* To monitor the movement of the bus using the sensors
+* To monitor the passengers using the camera
+* To monitor the speed of the bus using the GPS
+
+## Scope
+
+The scope of the project is limited to the movement of the buses inside of ames. The system will be able to monitor the movement of the bus and the passengers.  The system would be able to track the following information: 
+-Bus location 
+-Number of passengers on the bus 
+-Time of departure and arrival at each stop 
+-Bus routes and schedules 
+-Bus stops and times 
+-Real time updates of bus movements 
+-Data on traffic congestion or delays in service.
+
+## System Architecture
+
+The system architecture of the project is shown below:
+
+![System Architecture](/assets/img/system_architecture.png)
+
+## Technologies Used
+
+The technologies used in the project are as follows:
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* OpenCV
+* Arduino
+* Raspberry Pi
+* GPS
+
+## Hardware
+
+The hardware used in the project are as follows:
+
+* Raspberry Pi
+* Arduino
+* GPS
+* Camera
+* Sensors
+
+## Software
+
+The software used in the project are as follows:
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* OpenCV
+
+## Team Members
+
+The team members are as follows:
+
+- [Conner Ohnesorge](https://github.com/conneroisu)
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
@@ -47,7 +114,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... eveal its glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
