@@ -7,7 +7,7 @@ redirect: https://unsplash.com
 importance: 3
 category: work
 created: 2022-12-31T20:55:12-06:00
-updated: 2023-01-10T03:42:53-06:00
+updated: 2023-01-21T20:53:07-06:00
 ---
 The creation of NLP and text generation datasets are extremely impactual and has the potential to allow for researchers to train models that can automatically generate text. However, the creation of custom datasets is a teadious and slow process.
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: iowa state university theme for obsidian
+description: a project about a custom theme I made for obsidian md. 
+img: /assets/img/project/
 importance: 4
 category: fun
 created: 2022-12-31T20:55:12-06:00
-updated: 2022-12-31T21:01:51-06:00
+updated: 2023-01-21T18:05:18-06:00
 ---
 
 Every project has a beautiful feature showcase page.

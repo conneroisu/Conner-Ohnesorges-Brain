@@ -1,25 +1,25 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: templates for obsidian
+description: group project with armaan gupta for making a easier to access templates tool for all different types of templates that can be used within obsidian 
 img: assets/img/1.jpg
 importance: 3
 category: fun
 created: 2022-12-31T20:55:12-06:00
-updated: 2022-12-31T20:55:12-06:00
+updated: 2023-01-21T21:02:57-06:00
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Templates For Obsidian 
+We hope this template serves as a useful starting point for creating beautiful, responsive images galleries with captions to automatically updating workouts. Check out Obsidian's [Templates Accessor Plugin](https://github.com/conneroisu/Obsidian-Templates-Accessor-Plugin) for more templates within the obsidian app straight from the website. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[conneroisu/Obsidian-Templates-Accessor-Plugin: This plugin allows for the user to access the website templates for obsidian and import templates into their current vault.](https://github.com/conneroisu/Obsidian-Templates-Accessor-Plugin)
+![](e977ed6107eb52efe774dc9a748598d0_MD5.png)
 
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/e977ed6107eb52efe774dc9a748598d0_MD5.png
     ---
 
 <div class="row">
