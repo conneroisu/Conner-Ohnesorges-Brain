@@ -1,6 +1,6 @@
 ---
 created: 2022-12-31T20:54:53-06:00
-updated: 2022-12-31T20:54:53-06:00
+updated: 2023-01-29T12:47:01-06:00
 ---
 # Contributing to al-folio
 Thank you for considering to contribute to al-folio!

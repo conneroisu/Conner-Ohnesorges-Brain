@@ -6,13 +6,13 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 created: 2022-12-31T20:55:12-06:00
-updated: 2023-01-10T03:38:43-06:00
+updated: 2023-01-29T12:52:05-06:00
 ---
 # OhneDriver Bus Automation
 
 ## Introduction
 
-This project is an attempt to automate the bus movement in the campus. The buses are currently monitored by the driver and the driver is responsible for the movement of the bus. The driver is responsible for the movement of the bus and also for the safety of the passengers. We are trying to automate the bus movement by using the sensors and the camera installed in the bus. The sensors are used to monitor the movement of the bus and the camera is used to monitor the passengers. The driver will be responsible for the safety of the passengers and the bus movement will be monitored by the system.
+This project is an attempt to automate the bus movement on campus here at Iowa State University. The buses are currently monitored by the driver and the driver is responsible for the movement of the bus. The driver is responsible for the movement of the bus and also for the safety of the passengers. We are trying to automate the bus movement by using the sensors and the camera installed in the bus. The sensors are used to monitor the movement of the bus and the camera is used to monitor the passengers. The driver will be responsible for the safety of the passengers and the bus movement will be monitored by the system.
 
 To show the feasibility and to point to the wasting of data for CyRide as a company, I have created a Mini-Autonomous Bus which is described within this project page. 
 

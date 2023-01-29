@@ -1,0 +1,22 @@
+
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if project.redirect -%}
+  <a href="{{ teachings.redirect }}">
+    {%- else -%}
+    <a href="{{ teachings.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if teaching.img %}
+        {%- include figure.html
+          path=teaching.img
+          alt="teaching thumbnail" -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">{{ teaching.title }}</h2>
+          <p class="card-text">{{ teaching.description }}</p>
+        </div>
+      </div>
+    </a>
+</div>
