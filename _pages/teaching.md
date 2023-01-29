@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses taken by Conner Ohnesorge.
 nav: true
 nav_order: 5
 created: 2022-12-31T20:54:53-06:00
