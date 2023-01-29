@@ -6,7 +6,7 @@ description: Materials for courses taken by Conner Ohnesorge.
 nav: true
 nav_order: 5
 created: 2022-12-31T20:54:53-06:00
-updated: 2023-01-29T14:23:01-06:00
+updated: 2023-01-29T14:25:01-06:00
 ---
 
 Organize courses by years, topics, or universities, however you like!
